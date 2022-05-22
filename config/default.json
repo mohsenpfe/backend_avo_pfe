@@ -1,0 +1,4 @@
+{
+"MONGOURI":"mongodb+srv://Riahi_Mohsen:Mr130394****@cluster0.qcmiv.mongodb.net/?retryWrites=true&w=majority",
+"jwtSecret":"Avo-JwtSecret"
+} 
